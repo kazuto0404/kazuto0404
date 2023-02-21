@@ -10,15 +10,8 @@
 
 ![Kazu github stats](https://github-readme-stats.vercel.app/api?username=kazuto0404)
 
-[![weather status](https://img.shields.io/badge/weather-Partly%20cloudy-yellow)](https://weatherapi.com)
-- Temperature: 11°C
-- Condition: Partly cloudy
-- Humidity: 81%
-- Wind: 7 km/h
+![weather](https://badgen.net/badge/weather/Paris/skyblue?icon=https://openweathermap.org/img/wn/04d.png&labelColor=gray&scale=1.5&label=%20) ![time](https://badgen.net/badge/time/21/02/2023%2003:58%20am/grey?icon=clock-o)
 
-## Date
-
-![Date](https://img.shields.io/badge/Date-21%2F02%2F2023%2003%3A58%20AM-blue)
 
 
 
