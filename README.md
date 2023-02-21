@@ -6,6 +6,10 @@ My discord profil :
 
 [My Bot](https://discord.com/api/oauth2/authorize?client_id=1076481062181535804&permissions=-1&scope=bot) --- [My Bot support](https://discord.gg/sao)
 
+My Stats : 
+
+![Kazu github stats](https://github-readme-stats.vercel.app/api?username=kazuto0404)
+
 
 
 
