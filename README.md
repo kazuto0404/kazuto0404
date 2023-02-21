@@ -7,7 +7,7 @@
 
 ## My Stats : 
 
-![Kazu github stats](https://github-readme-stats.vercel.app/api?username=kazuto0404)
+![Kazuto's github stats][https://github-readme-stats.vercel.app/api?username=kazuto0404&show_icons=true&theme=radical)
 ## My Discord Bot
 
 [![Mon bot Discord](https://img.shields.io/badge/add%20Bot-Asuu-blue?style=flat-square&logo=discord&logoColor=white)](https://discord.com/api/oauth2/authorize?client_id=1076481062181535804&permissions=-1&scope=bot)
