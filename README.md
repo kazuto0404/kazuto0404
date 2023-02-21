@@ -10,7 +10,7 @@
 
 ![Kazu github stats](https://github-readme-stats.vercel.app/api?username=kazuto0404)
 
-![weather](https://badgen.net/badge/weather/Paris/skyblue?icon=https://openweathermap.org/img/wn/04d.png&labelColor=gray&scale=1.5&label=%20) ![time](https://badgen.net/badge/time/21/02/2023%2003:58%20am/grey?icon=clock-o)
+
 
 
 
