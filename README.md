@@ -10,6 +10,7 @@
 
 ![Kazu github stats](https://github-readme-stats.vercel.app/api?username=kazuto0404)
 
+[![Mon bot Discord](https://badgen.net/badge/Bot/Asuu/blue?icon=discord&labelColor=black&label&iconColor=blue)](https://discord.com/api/oauth2/authorize?client_id=1076481062181535804&permissions=-1&scope=bot)
 
 
 
