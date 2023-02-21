@@ -4,7 +4,6 @@
 
 [![Discord](https://lanyard.cnrad.dev/api/1001131894978658355)](https://discord.com/users/1001131894978658355)
 
-  [My Bot support](https://discord.gg/sao)
 
 ## My Stats : 
 
