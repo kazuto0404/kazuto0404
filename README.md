@@ -10,10 +10,10 @@
 
 ![Kazu github stats](https://github-readme-stats.vercel.app/api?username=kazuto0404)
 
-[![Mon bot Discord](https://badgen.net/badge/Bot/Asuu/blue?icon=discord&labelColor=black&label&iconColor=blue)](https://discord.com/api/oauth2/authorize?client_id=1076481062181535804&permissions=-1&scope=bot)
-![Avatar du bot](https://cdn.discordapp.com/avatars/1076481062181535804/3ef3c3d65a8a082d67f9d1f9a9c94617.png)
-![Nombre de serveurs](https://badgen.net/badge/Serveurs/100-/green)
-![Nombre d'utilisateurs](https://badgen.net/badge/Utilisateurs/1k+/green)
+[![My Discord Bot](https://badgen.net/badge/Bot/Asuu/blue?icon=discord&labelColor=black&label&iconColor=blue)](https://discord.com/api/oauth2/authorize?client_id=1076481062181535804&permissions=-1&scope=bot)
+![Avatar](https://media.discordapp.net/attachments/1024788828898209814/1076481801004003338/IMG_4304.jpg?width=675&height=676)
+![server](https://badgen.net/badge/Serveurs/100-/green)
+![users](https://badgen.net/badge/Utilisateurs/1k+/green)
 
 
 
