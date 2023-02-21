@@ -10,6 +10,16 @@ My Stats :
 
 ![Kazu github stats](https://github-readme-stats.vercel.app/api?username=kazuto0404)
 
+[![weather status](https://img.shields.io/badge/weather-Partly%20cloudy-yellow)](https://weatherapi.com)
+- Temperature: 11°C
+- Condition: Partly cloudy
+- Humidity: 81%
+- Wind: 7 km/h
+
+## Date
+
+[![Paris, France - Current Time](https://img.shields.io/badge/dynamic/json?label=Current%20Time&query=$.datetime&url=https%3A%2F%2Fworldtimeapi.org%2Fapi%2Ftimezone%2FEurope%2FParis)](https://worldtimeapi.org)
+
 
 
 
